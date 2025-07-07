@@ -1,16 +1,79 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**0jinson/0jinson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![header](https://capsule-render.vercel.app/api?type=wave&color=00ff00&height=300&section=header&text=0jinson&fontSize=80)
 
-Here are some ideas to get you started:
+</div>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <table style="border: none; width: 80%; margin: 0 auto; table-layout: fixed;">
+    <tr style="border: none;">
+      <td style="border: none; background-color: transparent;">
+        <img src="https://github-readme-stats.vercel.app/api?username=0jinson&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180">
+      </td>
+      <td style="border: none; background-color: transparent;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0jinson&layout=compact&theme=tokyonight" alt="Top Languages" height="180">
+      </td>
+    </tr>
+  </table>
+</div>
+<br>
+
+<div align="center"><h1>🎓 Education</h1></div>
+
+<div align="center">
+  <p>B.S. in Intelligent Mechatronics Engineering, Sejong University <code>2020.03 ~ </code></p>
+</div>
+
+<br>
+
+<div align="center"><h1>😄 Interests</h1></div>
+
+<div align="center">
+  <p>
+    E2E Autonomous Driving / Automotive Intelligence<br>
+    Computer Vision<br>
+    Machine Learning / Deep Learning
+  </p>
+</div>
+
+<br>
+
+<div align="center"><h1>🛠 Internships</h1></div>
+
+<div align="center">
+  <p>
+    Undergraduate Intern in IRCV Lab, Hanyang University <code>2025.07 ~ </code><br>
+    Engineering Intern in Summittech Co.,Ltd., Seoul <code>2023.02 ~ </code>
+  </p>
+</div>
+
+<br>
+
+<div align="center"><h1 style="color: #007BFF; opacity: 0.8;">📚 STACKS</h1></div>
+
+<div align="center" style="margin-top: 10px;"> 
+  <h3 style="color: #007BFF; opacity: 0.8;">💻 Programming Language</h3>
+  <img src="https://img.shields.io/badge/-MATLAB-4D4D4D?style=for-the-badge&logo=mathworks&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black">
+</div>
+
+<br>
+
+<div align="center"><h1>🏆 Competitions</h1></div>
+
+<div align="center">
+  <p>
+    LG Aimers 6th — <strong>Top 4% in Private Score</strong><br>
+    2024 Sejong AI Challenge with MathWorks — <strong>4th place</strong>
+  </p>
+</div>
+
+<br>
+
+<div align="center"><h1>📄 Additional Information</h1></div>
+
+<div align="center">
+  <p>If you want to see more information about me, here is my <a href="#"><strong>CV 📥</strong></a></p>
+</div>
