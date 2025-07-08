@@ -27,6 +27,17 @@
 
 <br>
 
+<div align="center"><h1>🛠 Internships</h1></div>
+
+<div align="center">
+  <p>
+    Undergraduate Intern in IRCV Lab, Hanyang University <code>2025.07 ~ </code><br>
+    Engineering Intern in Summittech Co.,Ltd., Seoul <code>2023.02 ~ </code>
+  </p>
+</div>
+
+<br>
+
 <div align="center"><h1>😄 Interests</h1></div>
 
 <div align="center">
@@ -39,17 +50,6 @@
 
 <br>
 
-<div align="center"><h1>🛠 Internships</h1></div>
-
-<div align="center">
-  <p>
-    Undergraduate Intern in IRCV Lab, Hanyang University <code>2025.07 ~ </code><br>
-    Engineering Intern in Summittech Co.,Ltd., Seoul <code>2023.02 ~ </code>
-  </p>
-</div>
-
-<br>
-
 <div align="center"><h1 style="color: #007BFF; opacity: 0.8;">📚 STACKS</h1></div>
 
 <div align="center" style="margin-top: 10px;"> 
@@ -57,17 +57,6 @@
   <img src="https://img.shields.io/badge/-MATLAB-4D4D4D?style=for-the-badge&logo=mathworks&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black">
-</div>
-
-<br>
-
-<div align="center"><h1>🏆 Competitions</h1></div>
-
-<div align="center">
-  <p>
-    LG Aimers 6th — <strong>Top 4% in Private Score</strong><br>
-    2024 Sejong AI Challenge with MathWorks — <strong>4th place</strong>
-  </p>
 </div>
 
 <br>
