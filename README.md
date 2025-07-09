@@ -33,7 +33,6 @@
 
 <div align="center">
   <p>
-    Undergraduate Intern in IRCV Lab, Hanyang University <code>2025.07 ~ </code><br>
     Engineering Intern in Summittech Co.,Ltd., Seoul <code>2023.02 ~ </code>
   </p>
 </div>
