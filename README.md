@@ -51,7 +51,7 @@
 
 <br>
 
-<div align="center"><h1 style="color: #007BFF; opacity: 0.8;">📚 STACKS</h1></div>
+<div align="center"><h1 style="color: #007BFF; opacity: 0.8;">📚 Stacks</h1></div>
 
 <div align="center" style="margin-top: 10px;"> 
   <h3 style="color: #007BFF; opacity: 0.8;">💻 Programming Language</h3>
