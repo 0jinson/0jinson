@@ -33,6 +33,18 @@
 
 <div align="center">
   <p>
+    Undergraduate Intern in Intelligence in Vehicle Lab, Sejong Univ. <code>2025.09 - Current </code>
+  </p>
+</div>
+
+<div align="center">
+  <p>
+    Undergraduate Intern in IRCV Lab, Hanyang Univ. <code>2025.06 - 2025.07 </code>
+  </p>
+</div>
+
+<div align="center">
+  <p>
     Engineering Intern in Summittech Co.,Ltd., Seoul <code>2023.02 ~ </code>
   </p>
 </div>
