@@ -77,5 +77,8 @@
 <div align="center"><h1>📄 Additional Information</h1></div>
 
 <div align="center">
-  <p>If you want to see more information about me, here is my <a href="#"><strong>CV 📥</strong></a></p>(https://github.com/0jinson/CV_0jinson.git)
+  <p>
+    If you want to see more information about me, here is my 
+    <a href="https://github.com/0jinson/CV_0jinson.git](https://github.com/0jinson/CV_0jinson/blob/baf806b2157e1ec2b4134b7f3ae4433dea23028a/YoungjinSon_CV.pdf"><strong>CV 📥</strong></a>
+  </p>
 </div>
