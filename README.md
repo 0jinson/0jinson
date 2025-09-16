@@ -79,6 +79,7 @@
 <div align="center">
   <p>
     If you want to see more information about me, here is my 
-    <a href="https://github.com/0jinson/CV_0jinson.git](https://github.com/0jinson/CV_0jinson/blob/baf806b2157e1ec2b4134b7f3ae4433dea23028a/YoungjinSon_CV.pdf"><strong>CV 📥</strong></a>
+    <a href="https://github.com/0jinson/CV_0jinson/blob/main/YoungjinSon_CV.pdf"><strong>CV 📥</strong></a>
   </p>
 </div>
+
