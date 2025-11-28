@@ -49,10 +49,10 @@
 
 <div align="center">
   <p>
+    Automotive Intelligence<br>
     Vehicle Experience Engineering<br>
     High-Performance Vehicle Control<br>
-    Automotive Intelligence<br>
-    (by. Machine Learning / Deep Learning)
+    (based on. Machine Learning / Deep Learning)
   </p>
 </div>
 
@@ -65,6 +65,7 @@
   <img src="https://img.shields.io/badge/-MATLAB-4D4D4D?style=for-the-badge&logo=mathworks&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black">
+  
 </div>
 
 <br>
