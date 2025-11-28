@@ -50,9 +50,9 @@
 <div align="center">
   <p>
     Vehicle Experience Engineering<br>
-    High-Performance Vehicle Control
+    High-Performance Vehicle Control<br>
     Automotive Intelligence<br>
-    Machine Learning / Deep Learning
+    (by. Machine Learning / Deep Learning)
   </p>
 </div>
 
