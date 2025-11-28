@@ -49,8 +49,9 @@
 
 <div align="center">
   <p>
-    E2E Autonomous Driving / Automotive Intelligence<br>
-    Computer Vision<br>
+    Vehicle Experience Engineering<br>
+    High-Performance Vehicle Control
+    Automotive Intelligence<br>
     Machine Learning / Deep Learning
   </p>
 </div>
