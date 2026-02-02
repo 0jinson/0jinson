@@ -24,7 +24,7 @@
 <div align="center"><h1>🎓 Education</h1></div>
 
 <div align="center">
-  <p>B.S. in Intelligent Mechatronics Engineering, Sejong University <code>2020.03 ~ </code></p>
+  <p>B.S. in Intelligent Mechatronics Engineering, Sejong University <code>2020.03 - </code></p>
 </div>
 
 <br>
@@ -39,7 +39,7 @@
 
 <div align="center">
   <p>
-    Engineering Intern in Summittech Co.,Ltd., Seoul <code>2023.02 ~ </code>
+    Engineering Intern in Summittech Co.,Ltd., Seoul <code>2023.02 - 2025.12 </code>
   </p>
 </div>
 
@@ -50,9 +50,9 @@
 <div align="center">
   <p>
     Automotive Intelligence<br>
-    Vehicle Experience Engineering<br>
     High-Performance Vehicle Control<br>
-    (based on. Machine Learning / Deep Learning)
+    Vehicle Experience Engineering<br>
+    (based on Machine Learning / Deep Learning)
   </p>
 </div>
 
@@ -65,7 +65,13 @@
   <img src="https://img.shields.io/badge/-MATLAB-4D4D4D?style=for-the-badge&logo=mathworks&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white">
   
+</div>
+<div align="center" style="margin-top: 10px;"> 
+  <h3 style="color: #007BFF; opacity: 0.8;"> 📐 CAD</h3>
+  <img src="https://img.shields.io/badge/SolidWorks-DA291C?style=flat-square&logo=solidworks&logoColor=white">
+
 </div>
 
 <br>
